@@ -26,7 +26,7 @@ MantaNet is an open-source Docker network traffic analysis tool that leverages m
 
 ## Additional Resources
 
-[Docker Networking Documentation](https://docs.docker.com/network/): Learn more about Docker networking concepts and configuration options.
-[Scikit-learn Tutorials](Scikit-learn Tutorials): Explore tutorials and examples on machine learning with Scikit-learn.
-[Matplotlib Documentation](Matplotlib Documentation): Reference documentation for creating visualizations with Matplotlib.
-[Python Testing with pytest](Python Testing with pytest): A comprehensive guide to testing Python code using pytest.
+- [Docker Networking Documentation](https://docs.docker.com/network/): Learn more about Docker networking concepts and configuration options.
+- [Scikit-learn Tutorials](Scikit-learn Tutorials): Explore tutorials and examples on machine learning with Scikit-learn.
+- [Matplotlib Documentation](Matplotlib Documentation): Reference documentation for creating visualizations with Matplotlib.
+- [Python Testing with pytest](Python Testing with pytest): A comprehensive guide to testing Python code using pytest.
