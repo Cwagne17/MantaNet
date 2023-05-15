@@ -1,5 +1,23 @@
 # MantaNet
 
+```text
+⠀⢀⡀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠹⣿⣷⣶⣤⣄⣀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠘⣿⣿⣿⣿⣿⣿⣿⣶⣦⣤⣀⠀⠀⠀⠀⢀⡴⠛⠁⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠘⣿⣿⣿⣿⣿⣿⣿⡿⢿⣿⣿⣷⣶⣶⣿⣧⠀⠀⠀⠀⢀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠹⣿⣿⣿⣿⡇⢸⣇⠘⣿⣿⣿⣿⣿⣿⣿⣷⣤⣀⣠⠟⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⢻⣿⣿⣿⣷⠈⢿⣦⣘⣿⣿⣿⣿⣿⣿⣿⣿⡟⠁⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠘⣿⣿⣿⣿⣷⣄⣹⣿⣿⣿⣿⣿⣿⣿⣿⣿⣇⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⡟⠿⣿⣿⣿⣿⡄⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⣿⣿⣿⣿⣿⣿⣿⣿⣿⣏⠙⢿⣦⣄⣉⣹⣿⣿⡀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⢿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣷⣤⣌⣉⣉⣿⣿⣿⣧⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⢀⣤⣴⠾⠟⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⡄⠀⠀⠀
+⠀⠀⠀⢀⣾⠛⠉⠀⠀⠀⠙⠛⠛⠛⠛⠛⠛⠿⠿⣿⣿⣿⣿⣿⣿⣿⣷⠀⠀⠀
+⠀⠀⠀⣼⠃⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠈⠙⠛⠿⣿⣿⣿⣇⠀⠀
+⠀⠀⢰⡇⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠉⠻⢿⡀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠁⠀
+```
+
 ## Author Note
 
 The intention of this project is gain a deeper understanding of Network Security, Docker, and Machine Learning while hopefully developing a useful and unique tool that may contribute to the Open Source Community. As a fun aside, the requirements were developed through conversational brainstorming with ChatGPT. The following is a summary of the requirements and recommendations that were determined.
