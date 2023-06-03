@@ -1,0 +1,15 @@
+version: '3.8'
+services:
+  py-alpine:
+    image: python:3.8-alpine
+    command: ["python", "-m", "http.server", "8000"]
+    tty: true
+    networks:
+      - test-network
+    deploy:
+      replicas: 3
+
+networks:
+  test-network:
+    name: test-network
+    driver: bridge
